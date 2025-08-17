@@ -3,6 +3,7 @@ Turning satellite data into maps & insights: Greenland mass balance (time-series
 
 ![Mass balance](figures/mass_balance_timeseries.png)
 ![Elevation change](figures/elevation_change_map.png)
+![Build](https://github.com/TomCorbett22/greenland-ice-sheet-gis-analysis/actions/workflows/build.yml/badge.svg)
 
 Quickstart:
 
