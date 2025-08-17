@@ -1,4 +1,8 @@
 # Greenland Ice Sheet – GIS & Time‑Series Demo
+Turning satellite data into maps & insights: Greenland mass balance (time-series) and elevation-change hotspots with Python, xarray & Geo tools.
+
+![Mass balance](figures/mass_balance_timeseries.png)
+![Elevation change](figures/elevation_change_map.png)
 
 Quickstart:
 
