@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+.env
+data/raw/
+*.nc
+*.h5
+*.tif
+*.tiff
+*.npy
+.DS_Store
+.streamlit/
